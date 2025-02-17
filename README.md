@@ -1,12 +1,4 @@
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&theme=algolia&layout=compact" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=algolia" alt="dante4rt's GitHub Stats"/>
-</p>
   
   ### My statistic
 
@@ -18,5 +10,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isansut&label=VIEWS&style=flat-square&color=blue" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isansut&theme=algolia&layout=compact" alt="Top Langs"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isansut&show_icons=true&theme=algolia" alt="isansut's GitHub Stats"/>
+</p>
 ```js
